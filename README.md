@@ -4,14 +4,6 @@
 </h2>
 
 <br/>
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> a0dc3f93747f9525eaf2abf7e351a460092b7251
-
->>>>>>> a0dc3f9 (Update: made changes to the code)
 <h3 align="center">
     🔹
     <a href="https://github.com/chiragkp06/Portfoliov/issues">Report Bug</a> &nbsp; &nbsp;
@@ -19,13 +11,6 @@
     <a href="https://github.com/chiragkp06/Portfoliov/issues">Request Feature</a>
 </h3>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> a0dc3f93747f9525eaf2abf7e351a460092b7251
-
->>>>>>> a0dc3f9 (Update: made changes to the code)
 ## Built With
 
 My personal portfolio <a href="https://chiragkp.vercel.app/" target="_blank">chiragkp.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
