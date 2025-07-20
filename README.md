@@ -6,7 +6,10 @@
 <br/>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a0dc3f93747f9525eaf2abf7e351a460092b7251
 
 >>>>>>> a0dc3f9 (Update: made changes to the code)
 <h3 align="center">
@@ -17,7 +20,10 @@
 </h3>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a0dc3f93747f9525eaf2abf7e351a460092b7251
 
 >>>>>>> a0dc3f9 (Update: made changes to the code)
 ## Built With
