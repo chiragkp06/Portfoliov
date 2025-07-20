@@ -12,15 +12,14 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        {/*<Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Chirag KP</h3>
-        </Col>
-        */}
         <Col md="4" className="footer-copywright">
-          <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "10px" }}>
-            <h3>Copyright © {year} CKP </h3>
-            <img src={logo} alt="CKP Logo" style={{ height: "30px", width: "auto" }} />
+          <div style={{ display: "flex", alignItems: "center" }}>
+            <img src={logo} alt="CKP Logo" style={{ height: "30px", width: "auto", marginRight: "10px" }} />
+            <h3>Designed and Developed by Chirag KP</h3>
           </div>
+        </Col>
+        <Col md="4" className="footer-copywright">
+          <h3 style={{ textAlign: "center" }}>Copyright © {year} CKP </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
