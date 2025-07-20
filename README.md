@@ -5,13 +5,21 @@
 
 <br/>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a0dc3f9 (Update: made changes to the code)
 <h3 align="center">
     🔹
-    <a href="https://github.com/chiragkp06/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/chiragkp06/Portfoliov/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/chiragkp06/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/chiragkp06/Portfoliov/issues">Request Feature</a>
 </h3>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a0dc3f9 (Update: made changes to the code)
 ## Built With
 
 My personal portfolio <a href="https://chiragkp.vercel.app/" target="_blank">chiragkp.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
