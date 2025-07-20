@@ -53,28 +53,30 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
-            <ul className="home-about-social-links">
-              <li className="social-icons">
-                <a
-                  href="https://github.com/chiragkp06"
-                  style={{ color: "white" }}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/chirag-kp/"
-                  style={{ color: "white" }}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-            </ul>
+            <Tilt>
+              <ul className="home-about-social-links">
+                <li className="social-icons">
+                  <a
+                    href="https://github.com/chiragkp06"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="icon-colour  home-social-icons"
+                  >
+                    <AiFillGithub />
+                  </a>
+                </li>
+                <li className="social-icons">
+                  <a
+                    href="https://www.linkedin.com/in/chirag-kp/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="icon-colour  home-social-icons"
+                  >
+                    <FaLinkedinIn />
+                  </a>
+                </li>
+              </ul>
+            </Tilt>
           </Col>
         </Row>
       </Container>
