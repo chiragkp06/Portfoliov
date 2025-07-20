@@ -13,27 +13,27 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="6" className="footer-copywright">
-          <div style={{ display: "flex", alignItems: "center" }}>
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-start" }}>
             <img src={logo} alt="CKP Logo" style={{ height: "24px", width: "auto", marginRight: "10px" }} />
-            <h3>Copyright © {year} CKP </h3>
+            <h3 style={{ margin: "0" }}>Copyright © {year} CKP </h3>
           </div>
         </Col>
         <Col md="6" className="footer-body">
-          <ul className="footer-icons">
-            <li className="social-icons">
+          <ul className="footer-icons" style={{ display: "flex", justifyContent: "flex-end", listStyle: "none", margin: "0", padding: "0" }}>
+            <li className="social-icons" style={{ margin: "0 10px" }}>
               <a
                 href="https://github.com/chiragkp06"
-                style={{ color: "white" }}
+                style={{ color: "white", fontSize: "20px" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
+            <li className="social-icons" style={{ margin: "0 10px" }}>
               <a
                 href="https://www.linkedin.com/in/chirag-kp/"
-                style={{ color: "white" }}
+                style={{ color: "white", fontSize: "20px" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
