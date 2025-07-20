@@ -17,9 +17,9 @@ function Footer() {
         </Col>
         */}
         <Col md="4" className="footer-copywright">
-          <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <img src={logo} alt="CKP Logo" style={{ height: "30px", width: "auto" }} />
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "10px" }}>
             <h3>Copyright © {year} CKP </h3>
+            <img src={logo} alt="CKP Logo" style={{ height: "30px", width: "auto" }} />
           </div>
         </Col>
         <Col md="4" className="footer-body">
