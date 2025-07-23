@@ -13,32 +13,32 @@ function Footer() {
     <Container fluid className="footer">
       <Row className="align-items-center text-center text-md-start">
         <Col md="6" className="footer-copywright">
-         <div style={{ display: "flex", alignItems: "center", justifyContent: "center", justifyContent: "flex-start" }}>
-            <img src={logo} alt="CKP Logo" style={{ height: "28px", width: "auto", marginRight: "10px" }} />
+         <div>
+            <img src={logo} alt="CKP Logo" style={{ height: "28px", width: "auto", marginRight: "15px" }} />
           </div>
         </Col>
 
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} CKP</h3>
+          <h3 style={{ margin: 0 }}>Copyright © {year} CKP</h3>
         </Col>
 
-        <Col md="6" className="footer-body">
-         <ul className="footer-icons" style={{ display: "flex", justifyContent: "flex-end", gap: "20px", paddingLeft: 0, marginBottom: 0 }}>
-            <li className="social-icons" style={{ listStyle: "none", fontSize: "1.2rem" }}>
+        <Col md="4" className="d-flex justify-content-end align-items-center">
+          <ul className="footer-icons d-flex mb-0 me-3">
+            <li className="social-icons mx-2" style={{ fontSize: "1.5rem" }}>
               <a
                 href="https://github.com/chiragkp06"
-                style={{ color: "white"}}
-                target="_blank" 
+                style={{ color: "white" }}
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons" style={{ listStyle: "none", fontSize: "1.2rem" }}>
+            <li className="social-icons mx-2" style={{ fontSize: "1.5rem" }}>
               <a
                 href="https://www.linkedin.com/in/chirag-kp/"
-                style={{ color: "white"}}
-                target="_blank" 
+                style={{ color: "white" }}
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
