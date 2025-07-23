@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Chirag KP </span>
             from <span className="purple"> Bengaluru, India.</span>
             <br />
-            I am currently pursuing B.Tech in Computer Science and Engineering at KSIT.
+            I am currently pursuing B.E in Computer Science and Engineering at KSIT.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>

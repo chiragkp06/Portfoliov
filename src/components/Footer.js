@@ -12,9 +12,9 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="6" className="footer-copywright">
+        <Col md="4" className="footer-copywright">
           <div style={{ display: "flex", alignItems: "center", justifyContent: "flex-start" }}>
-            <img src={logo} alt="CKP Logo" style={{ height: "24px", width: "auto", marginRight: "50px" }} />
+            <img src={logo} alt="CKP Logo" style={{ height: "24px", width: "auto", marginRight: "20px" }} />
           </div>
         </Col>
         <Col md="4" className="footer-copywright">
